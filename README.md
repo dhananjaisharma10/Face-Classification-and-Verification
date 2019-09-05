@@ -1,4 +1,4 @@
-# Image Classification and Verification
+# Face Classification and Verification
 This repository contains code to implement image classification and verification using a ResNet50 network.
 
 # Machine Learning Library
